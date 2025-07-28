@@ -11,3 +11,5 @@ out/
 
 # Log files
 *.log
+
+*.DS_Store
